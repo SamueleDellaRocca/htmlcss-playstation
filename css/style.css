@@ -94,14 +94,23 @@
     width: 100%;
 }
 
+.bordo_sotto_ps5 {
+    border-bottom: 2px solid blue;
+}
 
-
+.ghost_write {
+    visibility: hidden;
+}
 
 
 /* queste queries le utilizzo per tenere l img della playstation allineata alla scritta console ps5 */
 @media screen and (min-width: 767px) {
     .margine_negativo {
         margin-top: -50px;
+    }
+
+    .ghost_write {
+        visibility: visible;
     }
 }
 
