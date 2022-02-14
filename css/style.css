@@ -19,7 +19,9 @@
     width: 100%;
 }
 
-
+.fs_section {
+    font-size: 2.5rem;
+}
 
 
 
@@ -125,4 +127,30 @@
     .margine_negativo {
         margin-top: -100px;
     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* section numero 3 */
+.it_takestwo {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
 }
