@@ -7,7 +7,17 @@
     margin-bottom: 6rem;
 }
 
+.text_color_gray {
+    color: gray;
+}
 
+.fs-7 {
+    font-size: 2.5rem;
+}
+
+.img_width {
+    width: 100%;
+}
 
 
 
@@ -82,4 +92,28 @@
 .border_radius_section2 {
     border-radius: 15px;
     width: 100%;
+}
+
+
+
+
+
+/* queste queries le utilizzo per tenere l img della playstation allineata alla scritta console ps5 */
+@media screen and (min-width: 767px) {
+    .margine_negativo {
+        margin-top: -50px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .margine_negativo {
+        margin-top: -80px;
+    }
+}
+
+
+@media screen and (min-width: 1200px) {
+    .margine_negativo {
+        margin-top: -100px;
+    }
 }
