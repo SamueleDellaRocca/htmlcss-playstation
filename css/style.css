@@ -1,0 +1,42 @@
+.col_black {
+    height: 50px;
+    background-color: black;
+}
+
+.logo_sony {
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* section numero 1  */
+.returnal {
+    background-image: url(../img/jumbo-bg.png);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.returnal_banner {
+    width: 100%;
+}
+
+
+.altezza_row_section1 {
+    height: 600px;
+}
