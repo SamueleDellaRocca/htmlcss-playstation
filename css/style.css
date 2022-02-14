@@ -19,13 +19,14 @@
 
 
 
+
 .col_black {
     height: 50px;
     background-color: black;
 }
 
 .logo_sony {
-    width: 100px;
+    width: 100px !important;
 }
 
 
@@ -60,4 +61,25 @@
 
 .altezza_row_section1 {
     height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* section numero 2 */
+.border_radius_section2 {
+    border-radius: 15px;
+    width: 100%;
 }
