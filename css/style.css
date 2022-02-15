@@ -154,3 +154,34 @@
     background-size: cover;
     background-position: center;
 }
+
+
+
+
+
+
+
+
+/* section 6 */
+.bg_color_section6 {
+    background-color: hsl(20, 2.3%, 73.9%);
+}
+
+.img_width_section6 {
+    width: 228px;
+}
+
+.testo_col_section6 {
+    color: blue;
+}
+
+
+.ghost_col {
+    display: none;
+}
+
+@media screen and (min-width:767px) {
+    .ghost_col {
+        display: inline-block;
+    }
+}
