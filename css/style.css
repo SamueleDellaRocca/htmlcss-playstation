@@ -76,9 +76,9 @@
 /* section numero 1  */
 .returnal {
     background-image: url(../img/jumbo-bg.png);
-    height: 600px;
+    height: 610px;
     background-size: cover;
-    background-position: center;
+    background-position: top;
 }
 
 
@@ -89,7 +89,7 @@
 
 
 .altezza_row_section1 {
-    height: 600px;
+    height: 610px;
 }
 
 
