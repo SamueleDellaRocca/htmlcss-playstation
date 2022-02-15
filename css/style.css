@@ -42,8 +42,25 @@
 }
 
 
+.margin_per_fixed {
+    margin-top: 100px;
+}
 
 
+
+
+
+
+
+/* lavoro sulla navbar  */
+.width-100 {
+    width: 100%;
+}
+
+
+.li_style {
+    list-style-type: circle;
+}
 
 
 
