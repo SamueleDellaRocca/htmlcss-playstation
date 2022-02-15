@@ -185,3 +185,22 @@
         display: inline-block;
     }
 }
+
+
+
+
+
+
+
+
+
+
+/* section 8 */
+.bg_color_section8 {
+    background-color: hsl(230.3, 45.7%, 15.9%);
+}
+
+.alt_section8 {
+    height: 100%;
+    align-items: center;
+}
