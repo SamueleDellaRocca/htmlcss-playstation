@@ -204,3 +204,16 @@
     height: 100%;
     align-items: center;
 }
+
+
+
+
+
+
+
+
+
+/* footer  */
+.bg_footer {
+    background-color: hsl(214.2, 100%, 30.6%) url;
+}
