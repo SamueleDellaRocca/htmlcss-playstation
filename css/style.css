@@ -151,8 +151,19 @@
     visibility: hidden;
 }
 
+.bordo_sotto {
+    opacity: 0.6;
+}
 
 
+.bordo_sotto:hover {
+    border-bottom: 2px solid blue;
+    opacity: 1;
+}
+
+.bordo_invisibile {
+    border-bottom: 2px solid transparent;
+}
 
 
 
@@ -284,14 +295,4 @@
 .carta_section2:hover {
     transform: translateY(-10px);
     transition: transform .7s;
-}
-
-
-
-.bordo_sotto:hover {
-    border-bottom: 2px solid blue;
-}
-
-.bordo_invisibile {
-    border-bottom: 2px solid transparent;
 }
