@@ -86,6 +86,12 @@
     color: #0d6efd;
 }
 
+.show:after {
+    transform: rotate(180deg);
+}
+
+
+
 
 
 
@@ -289,6 +295,7 @@
 .btn-light:hover {
     outline: 3px solid hsl(20, 2.3%, 73.9%);
     box-shadow: 0 0 0 5px white !important;
+    color: blue;
 }
 
 
