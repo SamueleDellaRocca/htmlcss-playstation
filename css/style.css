@@ -271,3 +271,9 @@
     outline: none;
     box-shadow: 0 0 0 3px white !important;
 }
+
+
+.carta_section2:hover {
+    transform: translateY(-10px);
+    transition: transform .7s;
+}
