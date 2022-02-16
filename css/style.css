@@ -234,3 +234,40 @@
 .bg_footer {
     background-color: hsl(214.2, 100%, 30.6%);
 }
+
+
+
+
+
+
+
+
+
+/* effetti hover  */
+
+.btn-dark:hover {
+    outline: auto;
+    box-shadow: 0 0 0 3px black !important;
+}
+
+.btn-primary:hover {
+    outline: auto;
+    box-shadow: 0 0 0 3px #0d6efd !important;
+}
+
+
+.btn-danger:hover {
+    box-shadow: 0 0 0 3px #dc3545 !important;
+}
+
+
+.btn-light:hover {
+    outline: none;
+    box-shadow: 0 0 0 3px white !important;
+}
+
+
+.btn-info:hover {
+    outline: none;
+    box-shadow: 0 0 0 3px white !important;
+}
