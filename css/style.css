@@ -37,6 +37,8 @@
 
 
 
+
+
 .col_black {
     height: 50px;
     background-color: black;
@@ -72,6 +74,14 @@
     padding: 0.25rem 0px;
 }
 
+
+.paddding:hover {
+    color: #0d6efd;
+}
+
+.dropdown-item.text-center:hover {
+    color: #0d6efd;
+}
 
 
 
@@ -118,6 +128,13 @@
 
 
 /* section numero 2 */
+.border_colorato {
+    outline: 2px solid white;
+    box-shadow: 0 0 0 5px #0d6efd !important;
+}
+
+
+
 .border_radius_section2 {
     border-radius: 15px;
     width: 100%;
@@ -292,4 +309,8 @@
 
 .bordo_sotto:hover {
     border-bottom: 2px solid blue;
+}
+
+.bordo_invisibile {
+    border-bottom: 2px solid transparent;
 }
