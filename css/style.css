@@ -27,6 +27,9 @@
     margin-right: 2rem;
 }
 
+.cursor_pointer {
+    cursor: pointer;
+}
 
 
 
@@ -284,19 +287,20 @@
 
 
 .btn-danger:hover {
-    box-shadow: 0 0 0 3px #dc3545 !important;
+    outline: 3px solid black;
+    box-shadow: 0 0 0 5px #dc3545 !important;
 }
 
 
 .btn-light:hover {
-    outline: none;
-    box-shadow: 0 0 0 3px white !important;
+    outline: 3px solid hsl(20, 2.3%, 73.9%);
+    box-shadow: 0 0 0 5px white !important;
 }
 
 
 .btn-info:hover {
-    outline: none;
-    box-shadow: 0 0 0 3px white !important;
+    outline: 3px solid hsl(230.3, 45.7%, 15.9%);
+    box-shadow: 0 0 0 5px white !important;
 }
 
 
