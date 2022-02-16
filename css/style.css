@@ -152,29 +152,6 @@
 }
 
 
-/* queste queries le utilizzo per tenere l img della playstation allineata alla scritta console ps5 */
-@media screen and (min-width: 767px) {
-    .margine_negativo {
-        margin-top: -50px;
-    }
-
-    .ghost_write {
-        visibility: visible;
-    }
-}
-
-@media screen and (min-width: 992px) {
-    .margine_negativo {
-        margin-top: -80px;
-    }
-}
-
-
-@media screen and (min-width: 1200px) {
-    .margine_negativo {
-        margin-top: -100px;
-    }
-}
 
 
 
