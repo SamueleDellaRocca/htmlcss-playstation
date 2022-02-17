@@ -216,6 +216,15 @@
 
 
 
+/* section numero 4  */
+.scale_section4:hover {
+    transform: scale(1.02)
+}
+
+
+
+
+
 
 
 
@@ -244,6 +253,15 @@
 }
 
 
+
+/* section numero 7  */
+.border-radius_section7 {
+    border-radius: 15px;
+}
+
+.border-radius_section7:hover {
+    transform: scale(1.01);
+}
 
 
 
